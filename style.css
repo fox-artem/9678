@@ -1,0 +1,63 @@
+body { 
+    font-family: sans-serif; 
+}
+
+header { 
+    background-color: #d49cff; 
+}
+
+#logo{
+    margin: 10px; 
+}
+
+header a { 
+    text-decoration: none; 
+    background-color: #f373ff; 
+    color: black; 
+    margin: 10px; 
+    padding: 0px 10px; 
+    border-radius: 10px; 
+}
+
+.FantasticParty { 
+    color:#826585; 
+    border: 7px solid #826585; 
+    border-radius: 10px; 
+}
+
+footer { 
+    background-color: #ffffff; 
+}
+
+footer p { 
+    background-color: #ff739f; 
+}
+
+nav {
+    background-color: #ba82b2;
+    border: 7px solid #ba82b2;
+    border-radius: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: palevioletred;
+    background-color: plum;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.rat {
+    background-color: #f373ff;
+}
+
+.gat {
+    color: #ff739f;
+}
+
+.dat {
+    text-decoration: none;
+    background-color: #ff739f;
+    color: white;
+}
