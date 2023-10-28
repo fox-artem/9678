@@ -61,3 +61,7 @@ nav a {
     background-color: #ff739f;
     color: white;
 }
+
+main img {
+    border: solid 7px pink;
+}
